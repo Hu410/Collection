@@ -1,5 +1,5 @@
 # Software
-**下载慢**
+**加速下载**
 
 [https://gitdl.cn/](https://gitdl.cn)
 
