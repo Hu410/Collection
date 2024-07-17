@@ -1,4 +1,9 @@
 # 只适用于学习，商用请支持正版！！！
+
+[https://github.com/Hu410/Collection/releases](https://github.com/Hu410/Collection/releases)
+
+[https://github.com/Hu410/Collection/tags](https://github.com/Hu410/Collection/tags)
+
 **加速下载**
 
 [https://gitdl.cn/](https://gitdl.cn)
