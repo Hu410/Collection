@@ -1,4 +1,4 @@
-# Software
+# 只适用于学习，商用请支持正版！！！
 **加速下载**
 
 [https://gitdl.cn/](https://gitdl.cn)
