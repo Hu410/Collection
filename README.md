@@ -1,4 +1,5 @@
-# 只适用于学习，商用请支持正版！！！
+> [!TIP]
+> 只适用于学习，商用请支持正版！！！
 
 Releases：[https://github.com/Hu410/Collection/releases](https://github.com/Hu410/Collection/releases)
 
