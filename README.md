@@ -5,7 +5,6 @@ Releases：[https://github.com/Hu410/Collection/releases](https://github.com/Hu4
 
 Tag：[https://github.com/Hu410/Collection/tags](https://github.com/Hu410/Collection/tags)
 
-> [!TIP]
 > 加速下载！！！
 
 [https://gitdl.cn/](https://gitdl.cn)
